@@ -28,7 +28,7 @@ var questions = [{
 },
 {
   question:"Q. What book am I currently reading? ",
-  answer: "Picture of Dorian Gray"
+  answer: "The Picture of Dorian Gray"
 },
 {
   question: "Q. What non-programming language am I interested in learning? ",
@@ -44,11 +44,11 @@ for (let i = 0; i < questions.length; i++) {
 console.log("Your final score is " + score + ".");
 var highscores = [
   {
-    name: "ABC",
+    name: "Shobhna",
     score: 5
   },
   {                
-    name: "XYZ",
+    name: "Pushkraj",
     score: 4
   }
 ]
